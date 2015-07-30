@@ -1,0 +1,7 @@
+Belki bi halta yarar. 
++ http://www.d3scene.com/forum/dota-2-hacks/82347-searching-offsets-reading-process-memory.html
++ http://www.d3scene.com/forum/dota-2-hacks/69740-dota-2-offsets-collection-9.html#post583714
++ http://www.d3scene.com/forum/dota-2-hacks/75098-dota-2-offset-finder.html
+
+Offset aramakla uğraşmayız belki, gerçi kim bilir hangi update'den kalma.
+"client.dll" değişmişse bi boka yaramazlar.
